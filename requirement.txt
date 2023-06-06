@@ -1,0 +1,8 @@
+flask
+findspark
+streamlit
+numpy 
+pandas
+praw
+kafka-python
+jupyterlab
